@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>641a</objectGroupId>
+	<objectId>641ad765-170b-1631-9b0e-457410f5e1dd</objectId>
+	<disabled>false</disabled>
+	<internal-name>author3333</internal-name>
+	<title_t>author3333</title_t>
+	<file-name>index.xml</file-name>
+	<folder-name>author3333</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;author3333&lt;/p&gt;</body_html>
+	<createdDate>2020-09-30T16:30:34.396Z</createdDate>
+	<createdDate_dt>2020-09-30T16:30:34.396Z</createdDate_dt>
+	<lastModifiedDate>2020-09-30T16:30:34.396Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-30T16:30:34.396Z</lastModifiedDate_dt>
+</page>
